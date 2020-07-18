@@ -1,6 +1,6 @@
 # PostgreSQL Exercises
 
-This is a compilation of all the questions and answers on [Alisdair Owen's](https://github.com/AlisdairO) [PostgreSQL Exercises](https://pgexercises.com). Don't forget that actually solving these problems will make you go further than just skimming through this guide, so make sure to pay [PostgreSQL Exercises](https://pgexercises.com) a visit.
+This is a compilation of all the questions and answers on [Alisdair Owen's](https://github.com/AlisdairO) [PostgreSQL Exercises](https://pgexercises.com). Keep in mind that actually solving these problems will make you go further than just skimming through this guide, so make sure to pay [PostgreSQL Exercises](https://pgexercises.com) a visit.
 
 
 ## Table of Contents
